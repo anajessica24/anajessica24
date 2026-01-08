@@ -2,7 +2,7 @@
 
 ### Desenvolvedora Fullstack | C | React | Javascript | Typescript
 
-Tenho 33 anos e sou estudante de Análise e Desenvolvimento de Sistemas , estou em transição de carreira da Engenharia Civil, usando minha experiência em gestão com a paixão por matemática e soluções eficientes.
+Tenho 33 anos e sou estudante de Análise e Desenvolvimento de Sistemas, em transição de carreira da Engenharia Civil. Trago comigo a experiência em gestão, raciocínio lógico da engenharia, a paixão por matemática e por criar soluções eficientes.
 
 Certificada pelo **CS50 de Harvard**, onde desenvolvi uma base sólida em Ciência da Computação e lógica de programação.
 
@@ -10,45 +10,48 @@ Certificada pelo **CS50 de Harvard**, onde desenvolvi uma base sólida em Ciênc
 
 ### 🌟 Destaque
 
-**[Mnemonic Project]** - *Projeto de Conclusão CS50 Harvard*
+**[Mnemonic Project](https://github.com/anajessica24/project)** - *Projeto de Conclusão CS50 Harvard*
 * Sistema de mnemônicos desenvolvido inicialmente com conceitos de baixo nível e implementado com **C**, **Python** e **JavaScript**.
-* Executado com o foco em provar meu aprendizado, aplicando estruturas de dados e lógica complexa.
+* Focado na geradoção de frases mnemônicas (frases-semente) baseado no padrão BIP39. O objetivo principal é criar uma frase de recuperação segura para carteiras de criptomoedas, combinando:
+* 🔗 [Ver repositório do projeto](https://github.com/anajessica24/project)
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Linguagens e Frameworks:**
-* **C** 
-* **JavaScript**
-* **TypeScript**
-* **React**
-* **HTML**
-* **CSS**
-* **MySQL**
-
-**Ferramentas e Práticas:**
-* **Versionamento: Git & GitHub**
-
+<div align="left">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+</div>
 
 ---
 
-### 📊 Estatísticas
+### 📊 Estatísticas de Contribuição
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anajessica24&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anajessica24&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anajessica24&theme=dracula&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anajessica24&theme=dracula&hide_border=true" />
 </p>
 
 ---
 
-### 📫Contato
+### 📫 Contato
 
 * 💼 **LinkedIn:** [linkedin.com/in/anajessicalima](https://www.linkedin.com/in/anajessicalima/)
-* 📧 **E-mail:** [anajessica_lima@hotmail.com]
+* 📧 **E-mail:** anajessica_lima@hotmail.com
 
 ---
 
 <p align="center">
-  "Dividir e conquistar."
+  *"Dividir e conquistar."*
 </p>
