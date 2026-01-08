@@ -12,7 +12,7 @@ Certificada pelo **CS50 de Harvard**, onde desenvolvi uma base sólida em Ciênc
 
 **[Mnemonic Project](https://github.com/anajessica24/project)** - *Projeto de Conclusão CS50 Harvard*
 * Sistema de mnemônicos desenvolvido inicialmente com conceitos de baixo nível e implementado com **C**, **Python** e **JavaScript**.
-* Focado na geradoção de frases mnemônicas (frases-semente) baseado no padrão BIP39. O objetivo principal é criar uma frase de recuperação segura para carteiras de criptomoedas, combinando:
+* Focado na geradoção de frases mnemônicas (frases-semente) baseado no padrão BIP39. O objetivo principal é criar uma frase de recuperação segura para ser implementado em carteiras de criptomoedas.
 * 🔗 [Ver repositório do projeto](https://github.com/anajessica24/project)
 
 ---
